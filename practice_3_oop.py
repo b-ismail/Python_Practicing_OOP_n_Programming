@@ -62,5 +62,5 @@ obj3.print_details()
 
 obj4 = Other()
 obj4.medium = 'Hybrid'
-obj4.print_vehicle_detail()     # Technique 4.
+obj4.print_vehicle_detail()     # Technique 4. Update Parent variables and access parent methods from child object
 obj4.print_details()
