@@ -49,6 +49,7 @@ class Other(Vehicles):
         print('This vehicle can have more than one medium of commute')
 
 
+# Now let us define the program runtime
 
 obj1  = Land()
 obj1.print_details()
